@@ -32,4 +32,6 @@ Références : Qui d'autre dans le web ou dans la recherche a utilisé ces donn�
 
 Ce jeu de données est resté inutilisé. Cependant, quelques utilisateurs du site Kaggle ont essayé de grouper les données, afin de mieux les comprendre. 
 
+Wireframe
 
+[2023_03_16-15_30_43.pdf](https://github.com/iamdbby/VisualDonProjet/files/10992011/2023_03_16-15_30_43.pdf)
